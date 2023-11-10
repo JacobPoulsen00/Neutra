@@ -1,8 +1,5 @@
 require('dotenv').config({ path: __dirname + '/../.env' });
 const pythonPath = process.env.PYTHON_PATH;
-// Debug
-//console.log("Python path:", pythonPath);
-
 
 const express = require('express');
 const { exec } = require('child_process');

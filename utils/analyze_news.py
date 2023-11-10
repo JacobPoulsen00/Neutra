@@ -18,7 +18,7 @@ def analyze_news(url):
     raw_article_text = fetch_with_retries(url)
     preprocessed_article = preprocess_text(raw_article_text)
     sentiment = predict_sentiment(preprocessed_article)
-    print(f"Predicted Sentiment: {sentiment}")
+    print(sentiment)
 
 if __name__ == "__main__":
     if len(sys.argv) > 1:
