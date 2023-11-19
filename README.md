@@ -1,9 +1,10 @@
 Hej Emil
 
-Step 1: Connect GH with VSC
-Step 2: npm install in your root dir
-Step 3: Åben Terminal 1: node server.js
-Step 4: Terminal 2: npm start
+Steps 
+1. Step 1: Connect GH with VSC
+2. Step 2: npm install in your root dir
+3. Step 3: Åben Terminal 1: node server.js
+4. Step 4: Terminal 2: npm start
 
 
 Useful text:
