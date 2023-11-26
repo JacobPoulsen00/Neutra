@@ -1,5 +1,3 @@
-Hej Emil
-
 Steps 
 1. Step 1: Connect GH with VSC
 2. Step 2: npm install in your root dir
